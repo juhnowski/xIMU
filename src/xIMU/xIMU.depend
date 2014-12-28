@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1348944364 source:/media/Workspace/xIMU/src/xIMU/main.c
+	<fcntl.h>
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	"xIMUReceiver.h"
+
+1348944476 /media/Workspace/xIMU/src/xIMU/xIMUReceiver.h
+
